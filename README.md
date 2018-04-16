@@ -1,4 +1,7 @@
-# fs-tail-stream
+# @uppy/fs-tail-stream
+
+> This is a fork of eugeneware/fs-tail-stream that fixes an encoding issue.
+> Switch back to the original when https://github.com/eugeneware/fs-tail-stream/pull/2 is merged and released.
 
 `fs.createReadStream` that supports ongoing tailing of files
 
